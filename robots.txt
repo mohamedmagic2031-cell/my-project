@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohamedmagic2031-cell.github.io/my-project/sitemap.xml
